@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "bootstrap"
+  },
+  "keywords": [
+    "boot"
+  ],
+  "author": "prawal",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  }
+}
